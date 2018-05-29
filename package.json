@@ -1,0 +1,19 @@
+{
+  "name": "vuetify-locale-select-component",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karleule/vuetify-locale-select-component.git"
+  },
+  "author": "Daniel Schulz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karleule/vuetify-locale-select-component/issues"
+  },
+  "homepage": "https://github.com/karleule/vuetify-locale-select-component#readme"
+}
